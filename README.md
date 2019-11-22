@@ -1,2 +1,2 @@
-how to start project
+how to start project  
 yarn start "or" npm start
